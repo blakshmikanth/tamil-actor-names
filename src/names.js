@@ -5,4 +5,5 @@ export default names = [
   "Kamal Haasan",
   "Vijay",
   "Ajith",
+  "Lucky B",
 ];

@@ -8,6 +8,7 @@ const names = [
   "Ajith",
   "M G Ramachandran",
   "Sivaji Ganesan",
+  "Lakshmikanth B",
 ];
 
 export const all = names;
